@@ -1,2 +1,31 @@
-# Ignore Visual Studio temporary files
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Secrets and configuration
+appsettings.Development.json
+.env
+
+# IDE files
+*.csproj.user
+*.dbmdl
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Test results
+TestResults/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
