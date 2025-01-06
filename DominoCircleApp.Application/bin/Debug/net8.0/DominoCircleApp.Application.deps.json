@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DominoCircleApp.Application/1.0.0": {
+        "dependencies": {
+          "DominoCircleApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DominoCircleApp.Application.dll": {}
+        }
+      },
+      "DominoCircleApp.Domain/1.0.0": {
+        "runtime": {
+          "DominoCircleApp.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DominoCircleApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DominoCircleApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

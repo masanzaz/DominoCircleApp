@@ -1,0 +1,11 @@
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\bin\Debug\net8.0\DominoCircleApp.Domain.deps.json
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\bin\Debug\net8.0\DominoCircleApp.Domain.dll
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\bin\Debug\net8.0\DominoCircleApp.Domain.pdb
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\DominoCircleApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\DominoCircleApp.Domain.AssemblyInfoInputs.cache
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\DominoCircleApp.Domain.AssemblyInfo.cs
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\DominoCircleApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\DominoCircleApp.Domain.dll
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\refint\DominoCircleApp.Domain.dll
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\DominoCircleApp.Domain.pdb
+C:\Users\masanzaz\source\repos\DominoCircle\DominoCircleApp.Domain\obj\Debug\net8.0\ref\DominoCircleApp.Domain.dll
