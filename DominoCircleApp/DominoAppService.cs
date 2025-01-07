@@ -69,6 +69,7 @@ namespace DominoCircleApp
                 else
                 {
                     _consoleUIService.PrintMessage("Invalid input. Please enter a valid domino pair (e.g., 3,4).");
+                    Thread.Sleep(3000);
                     continue;
                 }
 
@@ -97,7 +98,15 @@ namespace DominoCircleApp
                 return null;
             }
 
-            return new Domino(first, second);
+            try
+            {
+                return new Domino(first, second);
+            }
+            catch (ArgumentException ex)
+            {
+                _consoleUIService.PrintMessage($"{ex.Message}");
+                return null;
+            }
         }
     }
 }
