@@ -3,7 +3,7 @@
     public class Domino
     {
         public static int MinValue { get; private set; } = 1;
-        public static int MaxValue { get; private set; } = 2;
+        public static int MaxValue { get; private set; } = 6;
 
         public int First { get; }
         public int Second { get; }
