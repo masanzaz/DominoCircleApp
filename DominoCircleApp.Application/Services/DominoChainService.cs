@@ -7,7 +7,7 @@ namespace DominoCircleApp.Application.Services
     {
         public bool CanFormCircle(List<Domino> dominoes)
         {
-            if (dominoes == null || dominoes.Count == 0)
+            if (dominoes == null || dominoes.Count < 2)
                 return false;
 
             var endCount = new Dictionary<int, int>();
@@ -28,9 +28,8 @@ namespace DominoCircleApp.Application.Services
 
         public List<Domino>? GetCircularChain(List<Domino> dominoes)
         {
-            if (dominoes == null || dominoes.Count == 0)
+            if (dominoes == null || dominoes.Count < 2)
                 return null;
-
 
             if (!CanFormCircle(dominoes))
                 return null;
@@ -73,5 +72,6 @@ namespace DominoCircleApp.Application.Services
 
             return null;
         }
+
     }
 }
